@@ -26,7 +26,7 @@ This repository contains coursework for the Big Data and Databases module (CSI-5
 - Power BI Desktop installed.
 
 ## Author
-Yameen
+Yameen Munir
 
 ## License
 This project is for educational purposes and is not licensed for commercial use.
